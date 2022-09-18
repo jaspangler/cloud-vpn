@@ -6,6 +6,8 @@ This is the lowest cost current-gen solution and is actually always-free as of t
 
 Create the VCN, Virtual Network Gateway, and Connection. 
 
+Refer to the example OCI Stack located in stacks/example for Terraform code. Note that it may not work for you as-is without replacing certain values such as public IP. 
+
 ## UDM Pro Side
 
 This has been written with Network version 7.2.94 and Unifi OS version 1.12.22. 
