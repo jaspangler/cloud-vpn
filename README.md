@@ -2,6 +2,15 @@
 
 Various docs and config used to establish S2S VPN connections from Ubiquiti devices to public clouds. 
 
+## Supported Devices and Clouds
+
+This guide currently supports the following device-cloud combinations:
+
+* Dream Machine Pro --> Azure Cloud
+* Dream Machien Pro --> Oracle Cloud Infrastructure
+
+Other clouds in the works include AWS, Google Cloud, but feel free to contribute others.
+
 ## Throughput
 
 This is just a list of the throughput available from the no-cost or lowest-cost cloud offerings.
